@@ -1,5 +1,3 @@
-// routes
-
 import "./assets/scss/style.css"
 import Router from './routes';
 //style
