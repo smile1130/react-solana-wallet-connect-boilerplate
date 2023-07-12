@@ -5,6 +5,7 @@
 ```bash
 npm install 
 yarn install
+yarn
 ```
 ### Start app
 ```bash
